@@ -4,7 +4,7 @@
 An application that allows the user to make notes or To-do lists, and save them to refer back to. Data persists until the user chooses to delete the note.
 
 ## Installation
-No installation is required, you can find the deployed page here: https://blank-space.herokuapp.com/
+No installation is required, you can find the deployed page here: 
 
 ## Usage
 1. Click on 'Get Started'
